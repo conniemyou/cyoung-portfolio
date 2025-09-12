@@ -356,8 +356,6 @@ footer .footer-col {
 
 footer .footer-below {
     display: none;
-    padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
 }
 
 .btn-social {
