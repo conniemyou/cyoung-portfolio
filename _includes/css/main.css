@@ -347,7 +347,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.tertiary }};
+    background-color: #{{ site.color. }};
 }
 
 footer .footer-col {
@@ -456,7 +456,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 /* Fix modal mouse wheel issues */
