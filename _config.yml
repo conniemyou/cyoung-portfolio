@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: F7F6F5 #80B3FF
+  primary: 423E3E #80B3FF
   primary-rgb: "179,178,178" #"128,179,255"
   secondary: B3B2B2 #FD6E8A
   secondary-dark: 8b8a8a #A2122F
