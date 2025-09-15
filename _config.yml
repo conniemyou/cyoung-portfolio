@@ -30,6 +30,7 @@ color:
   secondary: B3B2B2 #FD6E8A
   secondary-dark: 8b8a8a #A2122F
   tertiary: F7F6F5
+  accent: 0C0C0C
 
 # Footer settings
 footer:
