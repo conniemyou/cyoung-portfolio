@@ -279,7 +279,7 @@ section.success {
 .btn-outline.active {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
-    background: #fff;
+    background: #423E3E;
 }
 
 .floating-label-form-group {
