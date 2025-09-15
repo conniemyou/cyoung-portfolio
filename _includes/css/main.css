@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.tertiary }};
+    color: #{{ site.color.primary }};
 }
 
 h1,
@@ -347,7 +347,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color. }};
+    background-color: #{{ site.color.tertiary }};
 }
 
 footer .footer-col {
