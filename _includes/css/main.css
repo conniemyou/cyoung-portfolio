@@ -53,11 +53,11 @@ hr.star-light {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.accent }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.accent }};
     background-color: #fff;
 }
 
