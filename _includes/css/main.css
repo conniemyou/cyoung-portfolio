@@ -462,10 +462,6 @@ footer .footer-below {
     background-color: #{{ site.color.tertiary-dark }} !important;
 }
 
-li {
-    color: #{{ site.color.accent }} !important;/* CUSTOM */
-}
-
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
 .modal.fade.in {
