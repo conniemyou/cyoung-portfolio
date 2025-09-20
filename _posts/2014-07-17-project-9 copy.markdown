@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 9
+modal-id: 2
 date: 2025-09-10
-img: shrunkensize_img.jpg
-alt: project-nine
+img: placeholder.png
+alt: project-two
 project-date: September 2025
 client: PLACEHOLDER CLIENT
 category: PLACEHOLDER CATEGORY
