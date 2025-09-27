@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2025-09-10
-img: projectpic2-1.png
+img: projectpic3-1.png
 alt: project-seven
 project-date: September 2025
 client: PLACEHOLDER CLIENT
