@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2025-09-10
+img: projectpic1-2.png
+alt: project-two
+project-date: September 2025
+client: Self-Initiated
+category: Advertising
+description: Self-initiated set of banner advertisments for an newly opened exhibit at the Field Musuem in Chicago, designed in Adobe Illustrator and finalized as mockups in Adobe Photoshop.
+---
