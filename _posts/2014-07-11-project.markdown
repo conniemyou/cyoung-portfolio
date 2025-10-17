@@ -4,8 +4,8 @@ modal-id: 5
 date: 2025-09-10
 img: projectpic3-2.png
 alt: project-five
-project-date: September 2025
-client: PLACEHOLDER CLIENT
-category: PLACEHOLDER CATEGORY
-description: PLACEHOLDER TEXT - DESCRIBE PROJECT + PROCESS
+project-date: July 2025
+client: Self-Initiated
+category: Publishing
+description: Concept book cover for <em> A Life on Our Planet by David Attenborough </em>, featuring a risograph-inspired illustration created in Clip Studio Paint and refined using Adobe Illustrator and Photoshop.
 ---
